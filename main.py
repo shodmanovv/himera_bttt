@@ -43,7 +43,7 @@ dp = Dispatcher(bot, storage=storage)
 
 scheduler =AsyncIOScheduler(timezone="Asia/Almaty")
 # datebase
-p2p = QiwiP2P(auth_key=cfg.QIWI_TOKEN)
+#p2p = QiwiP2P(auth_key=cfg.QIWI_TOKEN)
 
 
 
