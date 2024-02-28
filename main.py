@@ -24,7 +24,7 @@ from keyboard.menu import help_menu,help_back,help_topback,list_clans_get,list_c
 from keyboard.main import (gamevbmenu,help_perexod,help_donat,help_top,help_invite,help_bonus,help_bonus2
                            ,unmute_kb,unban_kb)
 from keyboard.jobs import help_mine,help_mine2,help_ferma,help_biz,back_menuadmin,help_city,back_city,oer_sell,oer_cycl,earning_sell,ear_work
-from keyboard.qiwi import apanel,gamestavka,buy_menu,help_donat2,back,srez2,men,razda,uchas
+#from keyboard.qiwi import apanel,gamestavka,buy_menu,help_donat2,back,srez2,men,razda,uchas
 from keyboard.marry import button_marry,button_divorce
 from states.main import Rass,solve,dialog,Srez,razzdacha
 import secrets
