@@ -1,0 +1,9 @@
+BOT_TOKEN=''
+owner_id=955396492
+Test_group=-1001741255059
+offical_group= -1001622277443
+log_group=-1001502533364
+channel_offical=-1001823619866
+report_group=-1001779237972
+BOT_NICKNAME='@end_soft'
+QIWI_TOKEN=''
