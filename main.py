@@ -14,7 +14,7 @@ from filters.admins import IsBot,IsBot2
 from filters.register import IsRegister2,IsRegister3
 from decimal import Decimal
 import config as cfg
-from pyqiwip2p import QiwiP2P
+#from pyqiwip2p import QiwiP2P
 from datetime import datetime, timedelta
 from aiogram.utils.markdown import quote_html
 import sqlite3
