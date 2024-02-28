@@ -1,9 +1,8 @@
-BOT_TOKEN='6377790366:AAFBLLRrPCHTAzvBzwdeIJH5pdBEC2HB6FA'
-owner_id=955396492
-Test_group=-1001741255059
-offical_group= -1001622277443
-log_group=-1001502533364
-channel_offical=-1001823619866
-report_group=-1001779237972
-BOT_NICKNAME='@end_soft'
-QIWI_TOKEN=''
+BOT_TOKEN = '6377790366:AAFBLLRrPCHTAzvBzwdeIJH5pdBEC2HB6FA'
+owner_id = 1455110797
+Test_group = -1002110924392
+offical_group = -1002122704489
+log_group = -1001966197110
+channel_offical = -1002110924392
+report_group = -1001966197110
+BOT_NICKNAME = '@Temp_game_bot'
