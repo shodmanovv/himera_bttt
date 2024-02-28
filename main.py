@@ -32,7 +32,7 @@ import string
 import asyncio
 from handlers.functions import status_users
 from apscheduler.schedulers.asyncio import AsyncIOScheduler
-import numpy as np
+#import numpy as np
 
 logging.basicConfig(level=logging.INFO)
 
